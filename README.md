@@ -1,1 +1,5 @@
-# project-1
+# search tutions.
+## technologies used
+- c language
+
+## Usage
