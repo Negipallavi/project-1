@@ -2,4 +2,9 @@
 ## technologies used
 - c language
 
-## Usage
+## Usage 
+For Tution:-
+- Student detail.
+- Teacher deatail.
+
+
