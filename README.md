@@ -1,6 +1,6 @@
 # search tutions.
 
-![ for image ](https://www.chandigarhhelp.com/wp-content/uploads/2021/08/home-tuition-in-Panchkula-1024x745.jpg)"height=10%"
+![ for image ](https://img1.wsimg.com/isteam/ip/e371c7f8-92b2-4636-8484-5c44ea3c30f7/blob-f732d4d.png)
 
 ## language used
 - c language
